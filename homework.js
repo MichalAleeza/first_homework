@@ -7,7 +7,6 @@ let fahrenheit = 100;
 let celsius = fahrenheitToCelsius(fahrenheit); 
 console.log(`${fahrenheit}°F is ${celsius}°C`);
 
-
 function celsius2ToFarenheight(celsius2) { 
     return (celsius2 * 5 / 9) + 32; 
 } 
